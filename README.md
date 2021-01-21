@@ -1,7 +1,7 @@
-# ANSI-C-Project
+# ANSI C Project for University
 **Introduction**
 
-README file for CS23820 Assignment by mjh32 (2020)
+README file for CS23820 Assignment by Matthew Hibbin (2020)
 
 In this package you will find this README file, the Clion project folder named "cs23820_mjh32", a video file named "mjh32ScreenCastDemonstration.mp4" and a two page design document named "mjh32DesignDocument.pdf".
 
