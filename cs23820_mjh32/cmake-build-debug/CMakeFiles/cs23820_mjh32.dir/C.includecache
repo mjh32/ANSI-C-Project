@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/functions.h
+
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/header.c
+time.h
+-
+
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/listFunctions.c
+stdio.h
+-
+ctype.h
+-
+stdbool.h
+-
+math.h
+-
+nodeFunctions.c
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/nodeFunctions.c
+
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/main.c
+stdio.h
+-
+header.c
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/header.c
+listFunctions.c
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/listFunctions.c
+functions.h
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/functions.h
+
+/home/gamerh2/University/Semester1/CS23820/Assignment/cs23820_mjh32/nodeFunctions.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
