@@ -21,6 +21,7 @@ If you wish to run the program in batch mode the user will need to have the conf
 
 The video demonstrates a clean building of the program and how to use all 5 menu options presented to the user showing them all functioning correctly.
 The video also shows the program working with multiple program arguments in batch mode.
+https://youtu.be/zLwI4URsEY4
 
 **Design Document**
 
